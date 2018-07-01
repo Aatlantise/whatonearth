@@ -1,6 +1,6 @@
 # whatonearth
 
-The program aims to determine subject space and projection method of a map image or graphic. The project was first a part of 2016 Wolfram Summer School, then Wolfram Mentorships through summer of 2017, under supervision of Dr. Giorgia Fortuna.
+The program aims to determine subject space and projection method of a map image or graphic. The project was first a part of 2016 Wolfram Summer School, then Wolfram Mentorships through summer of 2017, under supervision of Dr. Giorgia Fortuna. An overview at the end of the Mentorships program is [here](http://community.wolfram.com/groups/-/m/t/1157472).
 
 ## Getting Started
 
