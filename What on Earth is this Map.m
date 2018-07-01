@@ -96,7 +96,7 @@ mapcat={"map of Asia","map of Europe","map of Oceania","map of North America","m
 
 
 (* ::Input:: *)
-(*Import["V:\\OneDrive - Johns Hopkins University\\Wolfram Mathematica\\Project\\DumpSaves\\inceptedmapslist.mx"] (*whole maps*)*)
+(*<<inceptedmapslist.mx (*whole maps*)*)
 
 
 (* ::Input:: *)
@@ -142,7 +142,7 @@ mapcat={"map of Asia","map of Europe","map of Oceania","map of North America","m
 
 
 (* ::Input:: *)
-(*Export["V:\\OneDrive - Johns Hopkins University\\Wolfram Mathematica\\What on Earth is this Map\\Updates\\que7.wlnet",que7]*)
+(*Export[dir,que7]*)
 
 
 (* ::Section:: *)
@@ -571,6 +571,8 @@ len==0,
 ans
 ]
 final[x_]:="This is not a map";;
+
+
 
 
 
